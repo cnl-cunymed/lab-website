@@ -1011,7 +1011,9 @@ li {
 .member-card.featured {
   grid-column: span 2;
   display: grid;
-  grid-template-columns: 280px 1fr;
+  /* Sized to the 140px avatar plus even breathing room, not to the old
+     full-bleed photograph the column used to hold. */
+  grid-template-columns: 188px 1fr;
 }
 
 @media (max-width: 720px) {
@@ -1027,11 +1029,28 @@ li {
   border-color: transparent;
 }
 
+/* Headshots are circular avatars rather than full-bleed rectangles. The four
+   photographs were taken in four different places — a lab, a studio on black,
+   outdoors under foliage, and against a grey wall — and a rectangle puts those
+   backgrounds edge to edge where the mismatch is obvious. A circle crops the
+   corners, where most of the background lives, and the ring gives every card the
+   same outline regardless of what is behind the person. The source files are
+   also cropped to a matching head-to-frame ratio so nobody appears further from
+   the camera than anyone else. */
 .member-photo {
-  aspect-ratio: 1;
+  width: 140px;
+  height: 140px;
+  flex: none;
+  align-self: center;
+  margin: var(--sp-6) auto var(--sp-2);
+  border-radius: 50%;
   overflow: hidden;
   position: relative;
   background: var(--teal-tint);
+  /* White band, then a teal rim: the white separates the photograph from the
+     ring so a dark background does not bleed into it. */
+  border: 4px solid var(--white);
+  box-shadow: 0 0 0 2px var(--teal), var(--shadow);
 }
 
 .member-photo img {
@@ -1042,7 +1061,7 @@ li {
 }
 
 .member-card:hover .member-photo img {
-  transform: scale(1.04);
+  transform: scale(1.06);
 }
 
 .member-photo.placeholder {

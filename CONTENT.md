@@ -203,6 +203,37 @@ Photonics 2024;11(3):260, doi:10.3390/photonics11030260.
 
 ## Images
 
+### Headshots
+
+All four are **square (1:1)** and displayed as **circular avatars with a teal
+rim**, 140 px across. Two rules keep them looking like a set:
+
+1. **Square source.** Crop to 1:1 before saving. A rectangle left to
+   `object-fit` gets cropped by the browser wherever it likes.
+2. **Matched head scale.** Crop so the head, hair to chin, fills about **55%**
+   of the square, with the eye line about **40%** down. Without this, someone
+   photographed from further away looks small next to everyone else, which is
+   exactly what the first version of this page looked like.
+
+The circle is doing real work: the four photographs were taken in four different
+settings (a lab, a studio on black, outdoors under foliage, a grey wall). A
+rectangle puts those backgrounds edge to edge; a circle discards the corners,
+where most of the background sits, and the rim gives every card the same outline.
+
+**Resolution limits, worth fixing when possible**
+
+| Photo | Square source | Note |
+|---|---|---|
+| `yifei-li.jpg` | 600 px | From the 1698×2129 original in the headshot PDF |
+| `james-barefoot.jpg` | 600 px | From his 3141×2304 original |
+| `abubakar-yamin.jpg` | 154 px | No higher-resolution original exists |
+| `junghoon-kim.jpg` | 123 px | No higher-resolution original exists |
+
+The last two are the only weak spot on the page. They are displayed at 140 px,
+so they are slightly soft on a high-resolution screen and cannot be improved
+without new photographs. A replacement of roughly 800×800 for either would drop
+straight in. Do not upscale the existing files: enlarging invents no detail.
+
 | Folder | Holds | Status |
 |---|---|---|
 | `images/people/` | Headshots | Kim, Yamin, Li, Barefoot are real |
