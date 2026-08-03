@@ -71,6 +71,11 @@ computational analysis of MRI biomarkers tied to treatment response.
 
 - **Photo:** `images/people/yifei-li.jpg` (+ `.webp`)
 - **Program:** CUNY Graduate Center Neuroscience
+- **Links:** [ORCID 0009-0000-1136-6305](https://orcid.org/0009-0000-1136-6305)
+- **Google Scholar:** not yet supplied. The profile must be confirmed by Yifei
+  before it is linked; "Yifei Li" is a very common name and the most prominent
+  Scholar profile under it belongs to a control-systems engineer at Nanyang
+  Technological University.
 
 Yifei is a first-year PhD student in the CUNY Graduate Center Neuroscience
 program. In the Kim Lab, she works on traumatic brain injury, using deep learning
@@ -113,15 +118,19 @@ and a one-line project summary.
 
 ### Alumni
 
+Alumni cards carry **only a Google Scholar link**. Faculty pages and
+dissertation links are kept in this file for reference but are not published.
+
 **Naomi L. Gaggi, PhD** — PhD 2022, CUNY Graduate Center (advisor: Junghoon Kim)
 
 - Dissertation: *Cerebrovascular Impairment as a Potential Target for
   Neuromodulation Therapy in Moderate-Severe Traumatic Brain Injury*
 - Now: Research Assistant Professor, Department of Psychiatry, NYU Grossman
   School of Medicine
-- Links: [NYU faculty page](https://med.nyu.edu/faculty/naomi-l-gaggi) ·
-  [Google Scholar](https://scholar.google.com/citations?user=JZvev3UAAAAJ) ·
-  [Dissertation](https://academicworks.cuny.edu/gc_etds/5092/)
+- Published link: [Google Scholar](https://scholar.google.com/citations?user=JZvev3UAAAAJ)
+- Held for reference, deliberately not on the site:
+  [NYU faculty page](https://med.nyu.edu/faculty/naomi-l-gaggi),
+  [dissertation](https://academicworks.cuny.edu/gc_etds/5092/)
 
 **Daniel J. Brennan, PhD** — PhD 2024, CUNY Graduate Center (advisor: Junghoon J. Kim)
 
@@ -129,8 +138,9 @@ and a one-line project summary.
   Moderate-Severe Traumatic Brain Injury*
 - Now: Postdoctoral Researcher, Department of Neurology, University of
   Pennsylvania Perelman School of Medicine
-- Links: [Google Scholar](https://scholar.google.com/citations?user=_wRxazUAAAAJ) ·
-  [Dissertation](https://academicworks.cuny.edu/gc_etds/5924/)
+- Published link: [Google Scholar](https://scholar.google.com/citations?user=_wRxazUAAAAJ)
+- Held for reference, deliberately not on the site:
+  [dissertation](https://academicworks.cuny.edu/gc_etds/5924/)
 
 ---
 
