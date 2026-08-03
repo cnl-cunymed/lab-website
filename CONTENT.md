@@ -71,11 +71,16 @@ computational analysis of MRI biomarkers tied to treatment response.
 
 - **Photo:** `images/people/yifei-li.jpg` (+ `.webp`)
 - **Program:** CUNY Graduate Center Neuroscience
-- **Links:** [ORCID 0009-0000-1136-6305](https://orcid.org/0009-0000-1136-6305)
-- **Google Scholar:** not yet supplied. The profile must be confirmed by Yifei
-  before it is linked; "Yifei Li" is a very common name and the most prominent
-  Scholar profile under it belongs to a control-systems engineer at Nanyang
-  Technological University.
+- **Links:** [Google Scholar](https://scholar.google.com/citations?user=lSYEZIAAAAAJ) ·
+  [ORCID 0009-0000-1136-6305](https://orcid.org/0009-0000-1136-6305)
+
+> Both were confirmed against her own record rather than matched on name.
+> "Yifei Li" is a very common name: the most prominent Scholar profile under it
+> belongs to a control-systems engineer at Nanyang Technological University, and
+> the ORCID registry returns several. The correct Scholar profile carries a
+> verified `gradcenter.cuny.edu` email and lists Christoph Anacker as a
+> co-author; the correct ORCID lists CUNY Graduate Center, NYSPI, Columbia, and
+> UC Davis. Verify the same way before linking any other common name.
 
 Yifei is a first-year PhD student in the CUNY Graduate Center Neuroscience
 program. In the Kim Lab, she works on traumatic brain injury, using deep learning
