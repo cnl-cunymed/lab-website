@@ -195,7 +195,14 @@ Photonics 2024;11(3):260, doi:10.3390/photonics11030260.
 | `images/research/` | Research figures | Placeholder, needs replacing |
 | `images/techniques/` | Method illustrations | Placeholder, needs replacing |
 | `images/funding/` | Institution logos | Real |
-| `images/photos/` | Gallery | Placeholder, needs replacing |
+| `images/photos/` | Gallery | One real lab photograph, the rest placeholder |
+
+**Real photographs in the gallery**
+
+- `images/photos/nyc-neuromodulation-2026.jpg` — Yifei Li with the lab's tPBM
+  trial protocol poster at NYC Neuromodulation 2026 (Session C, board C57,
+  2 August 2026). Shown in the Conferences section. Camera metadata, including
+  the GPS coordinates the phone recorded, was stripped before publication.
 
 Every photograph and brain image other than the headshots and the institutional
 logos is still a stand-in pulled from an open source, and is to be replaced with
