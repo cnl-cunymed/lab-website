@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cnl-cunymed.github.io/lab-website/sitemap.xml
