@@ -116,9 +116,30 @@ photobiomodulation (tPBM).
 > page because she has not submitted a profile of her own. Either name her in
 > James's bio or give her a card, once she has been asked.
 
+### Elias Koukoulis — Master's Student, Behavioral Neuroscience
+
+- **Photo:** `images/people/elias-koukoulis.jpg` (+ `.webp`) — square crop from the
+  studio headshot he supplied
+- **Program:** M.S. Behavioral Neuroscience, **Queens College** (not the Graduate
+  Center, unlike James)
+- **Bio supplied by:** Elias, by email, 2026-08-05
+
+Elias is a master's student in the Behavioral Neuroscience program at Queens
+College. In the lab he develops individual-specific analysis methods, working on
+one of the central difficulties in traumatic brain injury (TBI) research:
+patients vary so widely that group averages can obscure what is happening to any
+one of them.
+
+He works with a longitudinal dataset of cerebral blood flow measurements,
+generating control-referenced voxel-wise z-score maps that compare each patient
+against a healthy control group point by point through the brain, quantifying
+abnormal perfusion one person at a time. His research examines how these
+individualized perfusion measures track with neuropsychological outcomes across
+recovery, with the goal of better understanding recovery trajectories after TBI.
+
 ### Master's students — still to come
 
-Four placeholder cards remain on the page. Each needs a headshot, a short bio,
+Three placeholder cards remain on the page. Each needs a headshot, a short bio,
 and a one-line project summary.
 
 ### Alumni
