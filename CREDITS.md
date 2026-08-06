@@ -43,8 +43,21 @@ The lab will replace these with original imagery as it becomes available.
 |---|---|---|---|
 | `images/research/scanner-room.jpg` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Siemens_Magnetom_Aera_MRI_scanner.jpg) | `Siemens_Magnetom_Aera_MRI_scanner.jpg` — patient being positioned for MRI | CC BY-SA |
 | `images/photos/scanner-day.jpg` | (same as above) | (same) | CC BY-SA |
-| `images/photos/mri-mobile.jpg` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Glebefields_Health_Centre_-_2020-03-22_-_Andy_Mabbett_-_03.jpg) | Mobile MRI unit by Andy Mabbett | CC BY-SA 4.0 |
-| `images/research/tpbm-therapy.jpg`, `images/techniques/tpbm.jpg`, `images/photos/tpbm-clinical.jpg` | [Wikimedia](https://commons.wikimedia.org/wiki/File:Laserbehandling.jpg) | `Laserbehandling.jpg` — low-level laser therapy session | CC BY-SA |
+
+## Institutional facility photography
+
+| File on site | Source | Notes |
+|---|---|---|
+| `images/photos/asrc-mri-facility.jpg` | [CUNY Advanced Science Research Center — MRI Facility](https://asrc.gc.cuny.edu/facilities/mri/) | Banner photograph of the ASRC MRI Facility control room and Siemens 3T Prisma scanner. **This is the facility where the lab's scanning is performed**, and the image is reproduced here with attribution to the CUNY ASRC. Facility Director: A. Duke Shereen, Ph.D. No licence or copyright notice is published on the source page; the image is used by an affiliated CUNY laboratory to depict the facility it uses. |
+
+## Lab-produced imagery (no external credit required)
+
+| File on site | Origin |
+|---|---|
+| `images/photos/tpbm-dose-map.png`, `images/techniques/tpbm-dose-map.png` | **Produced by the lab.** Monte Carlo simulation of 808 nm light transport through a layered head model, showing absorbed dose concentrated in prefrontal cortex. Panel A of Figure 3 from the lab's Department of Defense project narrative |
+| `images/people/*.jpg` | Photographs supplied by the individual lab members |
+| `images/photos/pilot-scan-2026.jpg` | **Photographed in the lab**, TRUPC venous oximetry session, August 2026 |
+| `images/photos/nyc-neuromodulation-2026.jpg` | **Photographed by the lab** at the 2026 NYC Neuromodulation Conference |
 
 ## Cognitive assessment (Wikimedia Commons)
 
