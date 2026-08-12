@@ -111,10 +111,10 @@ point and across recovery. He is also co-authoring a scoping review on endocrine
 dysregulation after TBI and the therapeutic potential of transcranial
 photobiomodulation (tPBM).
 
-> **Open question:** James's original bio credits **Shruthi Suresh** as his
-> collaborator on the scoping review. Her name is currently left off the public
-> page because she has not submitted a profile of her own. Either name her in
-> James's bio or give her a card, once she has been asked.
+> **Note:** James's original bio credits **Shruthi Suresh** as his collaborator
+> on the scoping review. Per Hoon's request (August 2026), she has been given a
+> card in a new **Medical Students** section. The card is a named placeholder for
+> now; her bio and photo are still to be supplied.
 
 ### Elias Koukoulis — Master's Student, Behavioral Neuroscience
 
