@@ -112,9 +112,8 @@ dysregulation after TBI and the therapeutic potential of transcranial
 photobiomodulation (tPBM).
 
 > **Note:** James's original bio credits **Shruthi Suresh** as his collaborator
-> on the scoping review. Per Hoon's request (August 2026), she has been given a
-> card in a new **Medical Students** section. The card is a named placeholder for
-> now; her bio and photo are still to be supplied.
+> on the scoping review. Per Hoon's request (August 2026), she now has a full
+> card in the **Medical Students** section, with her own headshot and bio.
 
 ### Elias Koukoulis — Master's Student, Behavioral Neuroscience
 
